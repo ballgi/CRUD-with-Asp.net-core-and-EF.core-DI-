@@ -1,0 +1,14 @@
+C:\Users\danny\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.deps.json
+C:\Users\danny\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.runtimeconfig.json
+C:\Users\danny\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.runtimeconfig.dev.json
+C:\Users\danny\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.dll
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorAssemblyInfo.cache
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorAssemblyInfo.cs
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.AssemblyInfo.cs
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorTargetAssemblyInfo.cache
+C:\Users\danny\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.pdb
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.dll
+C:\Users\danny\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.pdb
